@@ -6,7 +6,7 @@
 
 ### 动态演示（GIF）
 
-1. **功能 A 演示**  
+1. **“A golden snub-nosed monkey is swaying its head from side to side.”**  
    ![展示1](assets/12.gif)
 
 2. **功能 B 演示**  
