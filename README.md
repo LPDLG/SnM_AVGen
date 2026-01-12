@@ -9,7 +9,7 @@
 1. **“A golden snub-nosed monkey is swaying its head from side to side.”**  
    ![展示1](assets/12.gif)
 
-2. **功能 B 演示**  
+2. **"A golden snub-nosed monkey walks forward."**  
    ![展示2](assets/13.gif)
 
 3. **功能 C 演示**  
