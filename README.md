@@ -7,13 +7,13 @@
 ### 动态演示（GIF）
 
 1. **功能 A 演示**  
-   ![功能A](demo_a.gif)
+   ![展示1](assets/12.gif)
 
 2. **功能 B 演示**  
-   ![功能B](demo_b.gif)
+   ![展示2](assets/13.gif)
 
 3. **功能 C 演示**  
-   ![功能C](demo_c.gif)
+   ![展示3](assets/14.gif)
 
 ### 科教视频（MP4）
 
