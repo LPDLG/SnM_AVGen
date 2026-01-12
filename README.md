@@ -12,7 +12,7 @@
 2. **"A golden snub-nosed monkey walks forward."**  
    ![展示2](assets/13.gif)
 
-3. **功能 C 演示**  
+3. **" The adult golden snub-nosed monkey held the baby golden snub-nosed monkey and looked around."**  
    ![展示3](assets/14.gif)
 
 ### 科教视频（MP4）
