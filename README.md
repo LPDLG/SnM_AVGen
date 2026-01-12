@@ -1,6 +1,12 @@
-# Project Demonstration Assets
+# SnM-AVGen
+
+# Project Profile
 
 This repository contains dynamic demonstration files, including multiple animated GIFs and one video.
+
+## Method Overview
+
+The Snub-nosed Monkey Audio-Visual Generation framework (SnM-AVGen), which for the first time enables behavior-aware, controllable audio-visual synthesis of endangered golden snub-nosed monkeys, providing a new technological paradigm for AI-driven wildlife conservation education. By integrating textual instructions with primate ethological knowledge, a Three-Stage Prompt Distillation (TSPD) strategy is designed to decouple user input into narratively coherent voiceovers and action-specific visual prompts, ensuring precise semantic alignment between speech and motion—such as “swaying head” or “carrying infant.” The framework also incorporates a Motion-Prior Guided Noise Initialization (MGNI) mechanism that leverages real-world optical flow to anchor diffusion trajectories on biologically plausible motion manifolds, significantly enhancing temporal realism. Additionally, a Multi-Behavior Semantic Modulator (MBS-Mod) is introduced to inject discrete behavioral labels as dynamic biases into the generative process, effectively resolving ambiguities in complex actions like “grooming vs. scratching.” Based on the self-constructed multimodal instruction-video dataset SnM-EDU, SnM-AVGen achieves state-of-the-art performance in both visual fidelity and audio-visual consistency, outperforming baseline text-to-video models by a large margin in expert evaluations. This framework not only provides an automated, scalable tool for generating scientifically accurate conservation media but also offers new insights into behavior-grounded, controllable multimodal generation for non-human species.
 
 ## Preview
 
@@ -20,3 +26,6 @@ This repository contains dynamic demonstration files, including multiple animate
 <video src="demo_full.mp4" controls width="600" alt="Full demonstration video">
   Your browser does not support video playback.
 </video>
+
+## Code
+We will upload the training scripts, testing code, and the complete dataset in future updates.
