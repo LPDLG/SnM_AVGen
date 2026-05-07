@@ -46,7 +46,7 @@ The Snub-nosed Monkey Audio-Visual Generation framework (SnM-AVGen), which for t
 
 ### Educational Video (MP4)
 
-![视频演示](assets/b87e860e9f7b8e11aeca6b4332022372.mp4)
+< img src="assets/b87e860e9f7b8e11aeca6b4332022372.mp4" width="100%" style="max-width: 800px;" />
 
 
 ## Code
