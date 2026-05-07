@@ -12,20 +12,19 @@ The Snub-nosed Monkey Audio-Visual Generation framework (SnM-AVGen), which for t
 
 ### Animated Demonstrations (GIFs)
 
-1. **“A golden snub-nosed monkey is swaying its head from side to side.”**  
-   ![Demo 1](assets/12.gif)
+1. **“A golden snub-nosed monkey is swaying its head from side to side.”** ![Demo 1](assets/12.gif)
 
-2. **"A golden snub-nosed monkey walks forward."**  
-   ![Demo 2](assets/13.gif)
+2. **"A golden snub-nosed monkey walks forward."** ![Demo 2](assets/13.gif)
 
-3. **"The adult golden snub-nosed monkey held the baby golden snub-nosed monkey and looked around."**  
-   ![Demo 3](assets/14.gif)
+3. **"The adult golden snub-nosed monkey held the baby golden snub-nosed monkey and looked around."** ![Demo 3](assets/14.gif)
 
 ### Educational Video (MP4)
 
-<video src="assets/b87e860e9f7b8e11aeca6b4332022372.mp4" controls width="600" alt="Full demonstration video">
-  Your browser does not support video playback.
-</video>
-![Demo 3](assets/b87e860e9f7b8e11aeca6b4332022372.mp4)
+<div align="center">
+  <video src="assets/b87e860e9f7b8e11aeca6b4332022372.mp4" controls="controls" width="100%" style="max-width: 800px;">
+    Your browser does not support video playback.
+  </video>
+</div>
+
 ## Code
 We will upload the training scripts, testing code, and the complete dataset in future updates.
